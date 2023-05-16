@@ -9,15 +9,17 @@
 
 </div>
 
+### 🛠️ Tech Stack
+
+- Java
+- Spring Boot, Spring MVC, Spring Data JPA
+- MySQL, MariaDB
+- AWS EC2, S3
+- Docker, Git, Github Actions, Jenkins
+
 ### 📚 Work Experience & Education
 
 - Back-end Engineering at HumusOn <sub>`(Mar 2023 ~ )`</sub>
 - Back-end Engineering Education at Programmers Dev Course<sub>`(Jul 2021 ~ Dec 2021)`</sub>
 - Web Development Internship at NextCore Technology <sub>`(Apr 2021 ~ Jun 2021)`</sub>
 - Bachelor's Degree in Medical IT Marketing at Eulji University <sub>`(Mar 2016 ~ Feb 2022)`</sub>
-
-### 🎯 Interest
-
-- `Back-End`, `Server Development`, `DevOps`
-- `Java`, `SpringBoot`, `JPA`, `MySQL`
-- `Clean Code`, `Refactoring`, `TDD`
