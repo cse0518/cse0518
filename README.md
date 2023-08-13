@@ -11,15 +11,21 @@
 
 ### 🛠️ Tech Stack
 
-- Java
-- Spring Boot, Spring MVC, Spring Data JPA
-- MySQL, MariaDB
+- Java 8, 11, 17
+- Spring Boot, Spring MVC, Spring Batch
+- Spring Data JPA, MyBatis
+- Oracle, MySQL, MariaDB
 - AWS EC2, S3
 - Docker, Git, Github Actions, Jenkins
+- JSP, JavaScript
 
-### 📚 Work Experience & Education
+### 💼 Work Experience
 
 - Back-end Engineering at HumusOn <sub>`(Mar 2023 ~ )`</sub>
-- Back-end Engineering Education at Programmers Dev Course<sub>`(Jul 2021 ~ Dec 2021)`</sub>
 - Web Development Internship at NextCore Technology <sub>`(Apr 2021 ~ Jun 2021)`</sub>
+
+### 📚 Education
+
+- Special Lecture on Algorithm at Samsung SDS<sub>`(Jul 2022)`</sub>
+- Back-end Engineering Education at Programmers Dev Course<sub>`(Jul 2021 ~ Dec 2021)`</sub>
 - Bachelor's Degree in Medical IT Marketing at Eulji University <sub>`(Mar 2016 ~ Feb 2022)`</sub>
