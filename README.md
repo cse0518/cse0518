@@ -11,13 +11,11 @@
 
 ### 🛠️ Tech Stack
 
-- Java 8, 11, 17
-- Spring Boot, Spring MVC, Spring Batch
-- Spring Data JPA, MyBatis
-- Oracle, MySQL, MariaDB
+- Java, Spring Boot, Spring MVC, Spring Batch, Spring Data JPA
+- MySQL, MariaDB, Oracle, JPA, MyBatis
+- ActiveMQ, Kafka
 - AWS EC2, S3
-- Docker, Git, Github Actions, Jenkins
-- JSP, JavaScript
+- Github Actions, Jenkins
 
 ### 💼 Work Experience
 
