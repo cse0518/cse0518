@@ -2,8 +2,8 @@
 
 <div>
   
-  [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion)](https://cse0518.notion.site/SeungEun-Choi-fd3cb8a04edc4c11b0c8607e1c78b296)
-  [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-6DB33F?style=flat&logoColor=white&logo=spring)](https://cse0518.notion.site/Portfolio-b478a4ba6f9848c9956f5a997518a581)
+  [![Resume Badge](http://img.shields.io/badge/-Resume-blueviolet?style=flat&logo=notion)](https://cse0518.notion.site/Resume-b478a4ba6f9848c9956f5a997518a581)
+  [![Portfolio Badge](http://img.shields.io/badge/-Portfolio-6DB33F?style=flat&logoColor=white&logo=notion)](https://cse0518.notion.site/fd3cb8a04edc4c11b0c8607e1c78b296)
   [![Blog Badge](http://img.shields.io/badge/-Blog-FF4088?style=flat&logoColor=white&logo=hugo)](https://cse0518.github.io/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:csedev0518@gmail.com)
 
