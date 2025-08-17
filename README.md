@@ -19,11 +19,12 @@
 
 ### 💼 Work Experience
 
-- Back-end Engineering at HumusOn <sub>`(Mar 2023 ~ )`</sub>
-- Web Development Internship at NextCore Technology <sub>`(Apr 2021 ~ Jun 2021)`</sub>
+- (주)에스오에스랩 / 백엔드 개발<sub>`(Aug 2025 ~ 재직중)`</sub>
+- (주)휴머스온 / 백엔드 개발<sub>`(Mar 2023 ~ May 2025)`</sub>
+- (주)넥스트코어테크놀로지 / 개발 인턴십<sub>`(Apr 2021 ~ Jun 2021)`</sub>
 
 ### 📚 Education
 
-- Special Lecture on Algorithm at Samsung SDS<sub>`(Jul 2022)`</sub>
-- Back-end Engineering Education at Programmers Dev Course<sub>`(Jul 2021 ~ Dec 2021)`</sub>
-- Bachelor's Degree in Medical IT Marketing at Eulji University <sub>`(Mar 2016 ~ Feb 2022)`</sub>
+- 삼성 SDS 알고리즘 특강<sub>`(Jul 2022)`</sub>
+- 프로그래머스 데브코스 백엔드 엔지니어링 1기<sub>`(Jul 2021 ~ Dec 2021)`</sub>
+- 을지대학교 / 의료IT마케팅학과 학사 졸업 <sub>`(Mar 2016 ~ Feb 2022)`</sub>
